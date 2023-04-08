@@ -1,0 +1,26 @@
+.menu{
+    width: 100%;
+    height: 50px;
+}
+body{
+    min-height: 2000px;
+    direction: ltr !important;
+}
+.portfolio{
+    width: 100px;
+    padding: 50px;
+    box-sizing: border-box;
+    background-color: #25cff2;
+}
+.border-web{
+    border: 3px inset lightgray;
+}
+.contact{
+    width: 100%;
+    padding-top: 50px;
+    box-sizing: border-box;
+}
+.comment{
+    height: 200px !important;
+    resize: none !important;
+}
